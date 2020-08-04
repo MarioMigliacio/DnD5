@@ -2,8 +2,14 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DnD5;
 
+/// <summary>
+/// Dungeons and Dragons 5th Edition Unit Tests Namespace.
+/// </summary>
 namespace UnitTests
 {
+    /// <summary>
+    /// Unit tests specific to RaceType objects.
+    /// </summary>
     [TestClass]
     public class RaceTypeUnitTests
     {
